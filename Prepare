@@ -1,0 +1,6 @@
+- Data is "Cyclist Trip Data" made available by Motivate International Inc. under this licensing https://divvybikes.com/data-license-agreement.
+- There are no  issues with bias or credibility in this data because it takes into account both members/nonmembers data. 
+- Privacy is addressed by
+    prohibitng user from using riders’ personally identifiable information such as  pass purchases to credit card numbers to determine if casual
+    riders live in the Cyclistic service area or if they have purchased multiple single passes.
+- Data will help us answer our question by providing us the information needed to see how casual riders and members ride different.
