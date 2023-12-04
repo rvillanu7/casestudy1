@@ -11,3 +11,4 @@ Process
     5. Created "date" column using =TEXT(D2, "MM/DD/YY")
     6. Hid columns started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id (left Lat & Long columns for now)
     7. Created pivot tables
+    8. Create Dashboard
